@@ -7,6 +7,7 @@ Includes:
 - Slash commands
 - Database
 - User commands
+- Leveling system
 and more will coming soon!
 
 ## Requirements
