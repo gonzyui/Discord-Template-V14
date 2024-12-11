@@ -13,6 +13,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node .",
     "test": "node ."
   },
@@ -24,4 +25,13 @@
   "author": "gonzyui",
   "license": "ISC",
   "description": "Discord bot template using djs v14, including slash commands, context menus and database and more soon!"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+>>>>>>> 103031f45b7d554641d33739715c97e3166ab11c
 }
