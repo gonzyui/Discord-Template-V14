@@ -5,7 +5,6 @@ updates:
     schedule:
       interval: "weekly"
     allow:
-      - dependency-name: "discord.js"
-      - dependency-name: "mongoose"
-      - dependency-name: "pokemon-api-wrapper"
-      - dependency-name: "anilist-api-client"
+      - dependency-type: "all"
+    ignore:
+      - dependency-name: "chalk"
