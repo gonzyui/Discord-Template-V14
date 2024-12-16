@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@discordjs/rest": "^2.4.0",
-    "anilist-api-client": "^1.0.0",
+    "anilist-api-client": "^1.1.2",
     "axios": "^1.7.9",
     "chalk": "^4.1.2",
     "discord-api-types": "^0.37.111",
