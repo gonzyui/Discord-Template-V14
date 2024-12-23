@@ -4,7 +4,7 @@
     "anilist-api-client": "^1.1.2",
     "axios": "^1.7.9",
     "chalk": "^4.1.2",
-    "discord-api-types": "^0.37.111",
+    "discord-api-types": "^0.37.113",
     "discord.js": "^14.16.3",
     "dotenv": "^16.4.7",
     "glob": "^11.0.0",
