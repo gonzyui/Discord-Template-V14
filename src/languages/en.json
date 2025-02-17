@@ -1,0 +1,8 @@
+{
+  "ping": "Pong! My ping is {ping}ms.",
+  "help_title": "Help - List of Commands",
+  "no_description": "No description provided.",
+  "language_updated": "Language updated to {language}.",
+  "avatar": "Avatar for {username}: {avatar}",
+  "command_error": "There was an error executing the command: {command}!"
+}

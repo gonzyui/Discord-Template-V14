@@ -1,0 +1,8 @@
+{
+  "ping": "Pong! Mon ping: {ping}ms.",
+  "help_title": "Help - Liste des commandes",
+  "no_description": "Aucune description.",
+  "language_updated": "Nouvelle langue: {language}.",
+  "avatar": "Avatar de {username}: {avatar}",
+  "command_error": "Erreur avec la commande: {command}!"
+}
