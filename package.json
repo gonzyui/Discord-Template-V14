@@ -1,0 +1,25 @@
+{
+  "name": "discord-template-v14",
+  "version": "1.0.0",
+  "description": "Discord bot template using discord.js v14, including database, slash, context commands and much more!",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzyui/Discord-Template-V14.git"
+  },
+  "keywords": [],
+  "author": "gonzyui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gonzyui/Discord-Template-V14/issues"
+  },
+  "homepage": "https://github.com/gonzyui/Discord-Template-V14#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.10.1"
+  }
+}
