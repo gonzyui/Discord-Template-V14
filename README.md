@@ -43,6 +43,7 @@ For more details, check out our [Wiki](https://github.com/gonzyui/Discord-Templa
 git clone https://github.com/gonzyui/Discord-Template-V14.git
 ```
 or download the `.zip` file.
+
 2. **Install dependencies**
     - Navigate into the projet folder and run:
 ```
